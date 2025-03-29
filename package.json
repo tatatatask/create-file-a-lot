@@ -1,0 +1,13 @@
+{
+	"name": "Create file a lot",
+	"author": "tatatatask",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"action": "node ./script.js"
+	},
+	"volta": {
+		"node": "23.10.0"
+	}
+}
